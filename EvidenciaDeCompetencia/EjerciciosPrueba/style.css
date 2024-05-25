@@ -1,0 +1,50 @@
+span.comentario {
+  color: green;
+}
+
+span.reservada {
+  color: blue;
+}
+
+span.null {
+  color: purple;
+}
+
+span.string {
+  color: orange;
+}
+
+span.especificador {
+  color: teal;
+}
+
+span.operador {
+  color: red;
+}
+
+span.numero {
+  color: brown;
+}
+
+span.funcion {
+  color: darkcyan;
+}
+
+span.identificador {
+  color: black;
+}
+
+span.caracter {
+  color: darkred;
+}
+
+span.delimitador {
+  color: darkblue;
+}
+
+span.directiva {
+  color: darkgreen;
+}
+
+span.espacio {
+}
