@@ -1,3 +1,9 @@
+#Actividad Integradora 3.4 Resaltador de sintaxis (evidencia de competencia)
+#Diego Ortega Fernández - A01028535
+#
+#24/05/2024
+
+
 defmodule Lexer do
   # Función principal que lee el archivo, lo tokeniza y genera el HTML correspondiente
   def leer_archivo(nombre_archivo) do
