@@ -158,3 +158,6 @@ end
 
 # Llamada para ejecutar el lexer con un archivo de ejemplo
 Lexer.leer_archivo("06_dfa.exs")
+Lexer.leer_archivo("Ejercicio_1.exs")
+Lexer.leer_archivo("ariel_set_1_test.exs")
+
